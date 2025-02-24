@@ -17,7 +17,7 @@
 - **Can accomodate upto 26 separate chains**
 - **Whenever two separate chains clash we know which bookmark belongs to which chain**
 
-### **2. Jump Path Encoding (≤3 Characters)**  
+### **2. Jump Path Encoding**  
 - **A, B, C, etc.** → Order of wormhole entry from each system.  
 - **1st hole = A, 2nd hole = B, 3rd hole = C, etc.**
 - **At 5+ jumps, compressed shorthand starts (D, E, F... instead of repeating letters).**
